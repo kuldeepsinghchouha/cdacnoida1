@@ -5,4 +5,8 @@ our cdac college name is cdac.
 
 KD KD KD KD KD KD
 chouhan chouhan
+<<<<<<< HEAD
 kuldeep singh chouhan
+=======
+deepak chouhan
+>>>>>>> 1c68a540f986cec4c28fdfda55e651f6b7847971
